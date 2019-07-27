@@ -1,7 +1,6 @@
 {
 	"name":"yoyonull/list",
 	"description":"php quick print",
-	"version":"1.0.0.0",
 	"type":"library",
 	"authors":[
 		{"name":"test"}
